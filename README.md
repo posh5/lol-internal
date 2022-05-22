@@ -6,6 +6,8 @@ League of Legends Internal
 - League of Legends' anticheat blacklisted the whole .NET framework
 - So fuck .NET we go C / C++
 - This is for internal
+- I stopped playing league and stopped updating source a while ago
+- Offsets are NOT up-to-date
 - Rest is self explanatory!
 
 
